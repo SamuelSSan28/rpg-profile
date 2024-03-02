@@ -6,6 +6,8 @@
 
 Este projeto tem como objetivo criar uma versão web da ficha de personagem para o RPG Reinos de Ferro, um jogo de interpretação de papéis ambientado no mundo de fantasia dos Reinos de Ferro. A aplicação web fornecerá aos jogadores uma interface intuitiva para gerenciar seus personagens, incluindo atributos, habilidades, equipamentos e outras informações relevantes.
 
+<img src="https://i.imgur.com/mRhh4hO.png" alt="RPG Reinos de Ferro">
+
 ---
 
 ## Funcionalidades
